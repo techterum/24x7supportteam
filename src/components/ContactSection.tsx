@@ -50,16 +50,14 @@ const ContactSection = () => {
               <p className="text-lg text-gray-600 mb-8">
                 Our dedicated support team is ready to assist you with any questions or concerns you may have.
               </p>
-              <a href="tel:+18774192930" className="inline-block">
-  <Button 
-    onClick={handleCall}
-    size="lg" 
-    className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-lg transition-all duration-200 hover:scale-105"
-  >
-    <Phone className="mr-2 h-5 w-5" />
-    Call (+1)-877 (419)-2930
-  </Button>
-</a>
+              <Button 
+                onClick={handleCall}
+                size="lg" 
+                className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-lg transition-all duration-200 hover:scale-105"
+              >
+                <Phone className="mr-2 h-5 w-5" />
+                Call 1-805-706-6693
+              </Button>
             </div>
 
             <Card className="shadow-lg">

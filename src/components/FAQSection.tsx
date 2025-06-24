@@ -60,7 +60,7 @@ const FAQSection = () => {
     },
     {
       question: "What is the number for Robinhood refund?",
-      answer: "If your Robinhood Wallet™ refund is still pending, dial (+1)-877 (419)-2930 [USA-Robinhood Wallet Live support]. This Independent Crypto Help Desk specializes in tracking unresolved refunds. Agents can investigate errors or missing info. Call (+1)-877 (419)-2930 (24/7 Help) now for expert refund assistance.\n\nNeed to get a refund from Robinhood Wallet™? Call (+1)-877 (419)-2930 [USA-Robinhood Wallet Live support] to talk directly to their Independent Support Service. Whether it's a failed crypto transaction or a mistaken payment, the refund process is smooth when guided by a live agent."
+      answer: "If your Robinhood Wallet™ refund is still pending, dial 1 (845) 400 - 1049 [USA-Robinhood Wallet Live support]. This Independent Crypto Help Desk specializes in tracking unresolved refunds. Agents can investigate errors or missing info. Call 1 (845) 400 - 1049 (24/7 Help) now for expert refund assistance.\n\nNeed to get a refund from Robinhood Wallet™? Call 1 (845) 400 - 1049 [USA-Robinhood Wallet Live support] to talk directly to their Independent Support Service. Whether it's a failed crypto transaction or a mistaken payment, the refund process is smooth when guided by a live agent."
     },
     {
       question: "How do I speak directly to Robinhood?",

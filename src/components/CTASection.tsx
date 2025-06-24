@@ -12,7 +12,7 @@ const CTASection = () => {
         <p className="text-xl text-green-100 mb-8">
           Our support team is available 24/7 to assist you with any questions or issues.
         </p>
-      <Button Add commentMore actionsCode has comments. Press enter to view.
+        <Button 
           size="lg" 
           variant="secondary"
           className="bg-white text-green-600 hover:bg-gray-100 px-8 py-4 text-lg rounded-lg transition-all duration-200 hover:scale-105"
