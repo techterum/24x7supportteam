@@ -16,7 +16,7 @@ const Header = () => {
       <img
                 src="https://newsroom.aboutrobinhood.com/wp-content/uploads/sites/2/2022/07/Logo-Nov-8-2021.png"Add commentMore actions
                 alt="Robinhood"
-                className="h-8 w-auto"
+                className="h-8 w-8"
               />
             </div>
             <nav className="hidden md:ml-10 md:flex space-x-8">
