@@ -18,7 +18,7 @@ const CTASection = () => {
           className="bg-white text-green-600 hover:bg-gray-100 px-8 py-4 text-lg rounded-lg transition-all duration-200 hover:scale-105"
         >
           <Phone className="mr-2 h-5 w-5" />
-          Call 1-805-706-6693
+          Call (+1)-877 (419)-2930
         </Button>
       </div>
     </section>

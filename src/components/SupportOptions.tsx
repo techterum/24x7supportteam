@@ -22,7 +22,7 @@ const SupportOptions = () => {
                   24/7 Phone Support
                 </h3>
                 <p className="text-gray-600 mb-3">
-                  Call us anytime at 1-805-706-6693 for immediate assistance.
+                  Call us anytime at (+1)-877 (419)-2930 for immediate assistance.
                 </p>
               </div>
 
@@ -49,7 +49,7 @@ const SupportOptions = () => {
                 className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-lg transition-all duration-200 hover:scale-105"
               >
                 <Phone className="mr-2 h-5 w-5" />
-                Call Now: 1-805-706-6693
+                Call Now: (+1)-877 (419)-2930
               </Button>
             </div>
           </div>
