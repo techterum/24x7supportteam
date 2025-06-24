@@ -22,7 +22,7 @@ const SupportOptions = () => {
                   24/7 Phone Support
                 </h3>
                 <p className="text-gray-600 mb-3">
-                  Call us anytime at (+1)-877 (419)-2930 for immediate assistance.
+                  Call us anytime at <a href="tel:+18774192930" className="text-green-600 hover:text-green-700 underline">(+1)-877 (419)-2930</a> for immediate assistance.
                 </p>
               </div>
 
@@ -47,6 +47,7 @@ const SupportOptions = () => {
               <Button 
                 size="lg" 
                 className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-lg transition-all duration-200 hover:scale-105"
+                onClick={() => window.location.href = 'tel:+18774192930'}
               >
                 <Phone className="mr-2 h-5 w-5" />
                 Call Now: (+1)-877 (419)-2930
