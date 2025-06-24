@@ -58,7 +58,7 @@ const SupportOptions = () => {
           <div className="flex justify-center lg:justify-end">
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                src="https://newsroom.aboutrobinhood.com/wp-content/uploads/sites/2/2022/07/Logo-Nov-8-2021.png"
                 alt="Customer support representative"
                 className="rounded-lg shadow-lg w-full max-w-md h-auto object-cover"
               />
