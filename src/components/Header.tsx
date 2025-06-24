@@ -13,10 +13,10 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-      <img
-                src="https://newsroom.aboutrobinhood.com/wp-content/uploads/sites/2/2022/07/Logo-Nov-8-2021.png"Add commentMore actions
+              <img
+                src="https://newsroom.aboutrobinhood.com/wp-content/uploads/sites/2/2022/07/Logo-Nov-8-2021.png"
                 alt="Robinhood"
-                className="h-8 w-8"
+                className="h-8 w-auto"
               />
             </div>
             <nav className="hidden md:ml-10 md:flex space-x-8">
