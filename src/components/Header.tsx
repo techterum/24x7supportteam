@@ -14,9 +14,9 @@ const Header = () => {
           <div className="flex items-center">
             <div className="flex-shrink-0">
               <img
-                src="https://newsroom.aboutrobinhood.com/wp-content/uploads/sites/2/2022/07/Logo-Nov-8-2021.png"
+                src="https://play-lh.googleusercontent.com/gdh_yiRr-u_xS1o76iOBpDp5-6l_qnvAAmD_Ft3KUFPSYdYZNEQT-rmPcFV2YaPSEhE"
                 alt="Robinhood"
-                className="h-8 w-auto"
+                className="h-10 w-10 sm:h-12 sm:w-12 md:h-10 md:w-10 object-contain"
               />
             </div>
             <nav className="hidden md:ml-10 md:flex space-x-8">

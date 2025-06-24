@@ -6,9 +6,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
             <img
-              src="https://newsroom.aboutrobinhood.com/wp-content/uploads/sites/2/2022/07/Logo-Nov-8-2021.png"
+              src="https://play-lh.googleusercontent.com/gdh_yiRr-u_xS1o76iOBpDp5-6l_qnvAAmD_Ft3KUFPSYdYZNEQT-rmPcFV2YaPSEhE"
               alt="Robinhood"
-              className="h-6 w-auto"
+              className="h-8 w-8 sm:h-10 sm:w-10 object-contain"
             />
           </div>
           <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
